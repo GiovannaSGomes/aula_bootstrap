@@ -1,0 +1,42 @@
+body {
+    font-family: 'Roboto', sans-serif;
+}
+
+.navbar{
+    background-color: #6B71F2;
+
+}
+a {
+    color: #000;
+}
+a:hover{
+    color:#E4E4F2
+
+}
+
+.quemsomos{
+    background-color: #F25781;
+    color:#494EA6;
+}
+
+.margin {
+    padding-bottom: 20px;
+    padding-top: 10px;
+
+
+}
+
+
+.fundo{
+    background-color: #494EA6;
+
+}
+
+.parceiros {
+    background-color: #E4E4F2;
+}
+
+.rodape {
+    background-color: #494EA6;
+    color: #F2F2F2;
+}
